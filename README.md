@@ -64,6 +64,6 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-
+[View PDF](./GenAI_LLM_Report_RedBlack%20(2).pdf
 
 Result:
