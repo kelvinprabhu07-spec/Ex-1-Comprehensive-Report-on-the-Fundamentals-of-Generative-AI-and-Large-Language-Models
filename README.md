@@ -65,7 +65,11 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fkelvinprabhu07-spec%2FEx-1-Comprehensive-Report-on-the-Fundamentals-of-Generative-AI-and-Large-Language-Models%2Frefs%2Fheads%2Fmain%2FGenAI_LLM_Report_RedBlack%2520(2)%2520(1).docx&wdOrigin=BROWSELINK
 
-[View PDF](./GenAI_LLM_Report_RedBlack%20(2).pdf
+
+
+
+
 
 Result:
