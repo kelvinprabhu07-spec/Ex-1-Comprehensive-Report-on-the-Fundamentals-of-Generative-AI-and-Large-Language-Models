@@ -67,9 +67,7 @@ Output:
 
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fkelvinprabhu07-spec%2FEx-1-Comprehensive-Report-on-the-Fundamentals-of-Generative-AI-and-Large-Language-Models%2Frefs%2Fheads%2Fmain%2FGenAI_LLM_Report_RedBlack%2520(2)%2520(1).docx&wdOrigin=BROWSELINK
 
-
-
-
-
-
 Result:
+
+The experiment on “Comprehensive Report on the Fundamentals of Generative AI and Large Language Models” was completed successfully. The study provided detailed knowledge about Generative AI, generative model types, and modern AI tools used in 2024. It also explained the concept, architecture, and training process of Large Language Models (LLMs). A timeline chart representing the evolution of Artificial Intelligence was created to understand the historical development of AI technologies. The report improved understanding of AI applications, ethical considerations, future trends, and technical report preparation techniques.
+
