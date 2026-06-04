@@ -66,6 +66,9 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 Output:
 
 https://github.com/kelvinprabhu07-spec/Ex-1-Comprehensive-Report-on-the-Fundamentals-of-Generative-AI-and-Large-Language-Models/blob/main/experiment%20-%201.pdf
+
+
+
 Result:
 
 The experiment on “Comprehensive Report on the Fundamentals of Generative AI and Large Language Models” was completed successfully. The study provided detailed knowledge about Generative AI, generative model types, and modern AI tools used in 2024. It also explained the concept, architecture, and training process of Large Language Models (LLMs). A timeline chart representing the evolution of Artificial Intelligence was created to understand the historical development of AI technologies. The report improved understanding of AI applications, ethical considerations, future trends, and technical report preparation techniques.
